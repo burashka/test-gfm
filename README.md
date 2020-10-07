@@ -1,7 +1,7 @@
 # test-gfm
 Проект для тестирования синтаксиса GFM
 
-1            | 2 | 3 | 4
+ | | | 
 :--- | :--- | :--- | :---
 Путь в Аркадии | `x/y/a.py` | `x/y/z/b.py` | `x/y/__init__.py`
 Default | `import x.y.a` | `import x.y.z.b` | `import x.y`
